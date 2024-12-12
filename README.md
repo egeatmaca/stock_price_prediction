@@ -1,2 +1,8 @@
-# stock_price_prediction
-Stock Price Prediction with Transformers, LSTM and ARIMA
+# Stock Price Prediction
+AAPL Stock Price Prediction using Transformers, LSTM and ARIMA
+
+## Vector Auto-Regression with Transformers
+### Validation Period: 18/01/2022 - 30/06/2023
+![Transformer Model Validation Results](images/transformer_validation.png "Transformer Model Validation Results")
+### Backtest Period: 03/07/2023 - 11/12/2024
+![Transformer Model Backtest Results](images/transformer_backtest.png "Transformer Model Backtest Results")
